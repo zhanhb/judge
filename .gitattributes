@@ -51,6 +51,7 @@ mvnw    text    diff=shell
 *.out   text
 *.md    text
 *.MD    text
+*.kt    text
 *.cmd text eol=crlf
 *.bat text eol=crlf
 *.groovy text
